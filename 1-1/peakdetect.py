@@ -972,7 +972,7 @@ if __name__ == "__main__":
     yn = [p[1] for p in _min]
     
     plot = pylab.plot(x, y)
-    pylab.hold(True)
+    #pylab.hold(True)
     pylab.plot(xm, ym, "r+")
     pylab.plot(xn, yn, "g+")
     
