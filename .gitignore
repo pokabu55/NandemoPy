@@ -1,2 +1,9 @@
-*.MOV
-*.pyc
+./1-1/*.MOV
+./1-1/*.pyc
+
+./4-3/.ipnb_checkpoints/*
+./4-3/estra/*
+./4-3/PNGsmall/*
+./4-3/undistorted/*
+./4-3/*
+
