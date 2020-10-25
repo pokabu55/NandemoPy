@@ -1,9 +1,11 @@
-./1-1/*.MOV
-./1-1/*.pyc
+/1-1/*.MOV
+/1-1/*.pyc
+/1-1/__pycache__
 
-./4-3/.ipnb_checkpoints/*
-./4-3/estra/*
-./4-3/PNGsmall/*
-./4-3/undistorted/*
-./4-3/*
+/4-3/.ipynb_checkpoints
+/4-3/extra
+/4-3/PNGsmall
+/4-3/undistorted
+/4-3/*.ply
+/4-3/*.png
 
